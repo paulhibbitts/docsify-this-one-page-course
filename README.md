@@ -14,7 +14,7 @@ _Figure 1. Docsify Docsify This One Page Course Template. Explore the resulting 
 How to Use
 ---
 
-1. Tap **Use this template** on the source repository (upper-right green button) and then choose **Create a new repository**
+1. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
 
 2. Choose the name for your new repository to contain the files and then tap **Create repository from template**
 
