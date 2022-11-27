@@ -1,4 +1,4 @@
-# Docsify This One Page Course
+# Docsify This One Page Course Template
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
@@ -7,6 +7,9 @@
 </a>
 
 > This is a one page course site template for use with [Docsify-This](https://docsify-this.net/#/).
+
+![ Docsify Docsify This One Page Course Template](screenshot.png)
+_Figure 1. Docsify Docsify This One Page Course Template. Explore a demo at [https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course-template/main&homepage=home.md&toc=true](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course-template/main&homepage=home.md&toc=true)_
 
 How to Use
 ---
