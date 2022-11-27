@@ -18,7 +18,7 @@ How to Use
 
 2. Choose the name for your new repository to contain the files and then tap **Create repository from template**
 
-3. View the [**home.md**](https://github.com/paulhibbitts/docsify-this-one-page-course/blob/main/home.md) Markdown file and copy it's URL
+3. View the **home.md** Markdown file in your newly created repository and copy it's URL
 
 4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
