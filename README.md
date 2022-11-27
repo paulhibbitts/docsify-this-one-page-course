@@ -8,18 +8,15 @@
 
 > This is a one page course site template for use with [Docsify-This](https://docsify-this.net/#/).
 
-Hot to Use
+How to Use
 ---
 
-1. Go to the Docsify Markdown (.md) page in the `docs` folder of your repository you want to edit
-![ Editing Your Docsify Site Pages 1](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-page-edit-1.png)
+1. Tap **Use this template** on the source repository (upper-right green button) and then choose **Create a new repository**
 
-2. Tap the **Pencil Icon** (top left-hand toolbar area) to start the editor
-![ Editing Your Docsify Site Pages 2](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-page-edit-2.png)
+2. Choose the name for your new repository to contain the files and then tap **Create repository from template**
 
-3. Scroll down to the bottom of the page and tap the **Commit changes** button to save your changes
-![ Editing Your Docsify Site Pages 3](https://raw.githubusercontent.com/paulhibbitts/github-repo-images/master/docsify-page-edit-3.png)
+3. Locate the **home.md** Markdown file, open it, and copy it's URL
 
-[Learn more about creating pages in Docsify.](https://docsify.js.org/#/more-pages)
+4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
-🔗 Activating the “Edit this Page” Link on Your Docsify Site
+5. Tap the **View as Standalone Page** button to view your Markdown file as a web page
