@@ -20,3 +20,11 @@ How to Use
 4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
 5. Tap the **View as Standalone Page** button to view your Markdown file as a web page
+
+Docsify-This Examples
+---
+
+[Docsify This One Page Course](https://github.com/paulhibbitts/docsify-this-one-page-course/blob/main/home.md), displayed by Docsify-This as a:  
+* [Standalone Page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course/main&homepage=home.md "Docsify This One Page Course")  
+* [Standalone Page with Table of Contents Course](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course/main&homepage=home.md&toc=true "Docsify This One Page Course")
+* [Standalone Page with Docsify Sidebar](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course/main&homepage=home.md&sidebar=true "Docsify This One Page Course")
