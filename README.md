@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-> This is a one page course template for use with [Docsify-This](https://docsify-this.net/#/).
+> This is a one page course template for use with [Docsify-This.net](https://docsify-this.net/#/).
 
 ![ Docsify Docsify This One Page Course Template](screenshot.png)
 _Figure 1. Docsify Docsify This One Page Course Template. Explore the resulting standalone web page at [https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course-template/main&homepage=home.md&toc=true](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-one-page-course-template/main&homepage=home.md&toc=true)_
