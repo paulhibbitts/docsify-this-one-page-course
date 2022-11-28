@@ -24,7 +24,7 @@ How to Use
 
 5. Tap the **View as Standalone Page** button to view your Markdown file as a web page
 
-You can further customize the appearance of your web page by tapping on the **Show More Page Options »* link in the Docsfy-This Web Page Builder.
+You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
 Docsify-This Examples
 ---
